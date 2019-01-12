@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.2)
+  - JGProgressHUD (2.0.3)
+  - Tailor (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - JGProgressHUD
+  - Tailor
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - JGProgressHUD
+    - Tailor
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  Tailor: 4fb574e8815d076abbf2bd7ffdbf4b14103fe17c
+
+PODFILE CHECKSUM: ec9dd91fa3818c726cdc65d15cb14b44318c60f0
+
+COCOAPODS: 1.5.3

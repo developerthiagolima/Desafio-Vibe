@@ -1,0 +1,8 @@
+platform :ios, "11.0"
+use_frameworks!
+
+target 'Eventos' do
+    pod 'Alamofire'
+    pod 'Tailor'
+    pod 'JGProgressHUD'
+end
